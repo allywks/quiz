@@ -14,9 +14,57 @@ var questions = [
 
     ],
     ["(Espm 2016)  Num mapa, uma estrada retilínea passa sucessivamente pelas cidades 'A', 'B' e 'C' e uma cidade 'D', distante 120km de 'A', está localizada de tal forma que o ângulo 'DAB' mede 36°. Um viajante fez o trajeto 'AB', 'BD' e 'DC', percorrendo em cada trecho a mesma distância. Se ele tivesse ido diretamente de 'A' até 'C' teria percorrido uma distância de: ",
-    "", "", "", "","",
-    "img/ex2.jpg", "img/Aex3.jpg", "img/Bex3.jpg", "img/Cex3.jpg", "img/Dex3.jpg","img/Eex3.jpg",
-    "3"
+        "", "", "", "","",
+        "", "img/Aex3.jpg", "img/Bex3.jpg", "img/Cex3.jpg", "img/Dex3.jpg","img/Eex3.jpg",
+        "1"
+
+    ],
+    ["(Udesc 2015)  Observe a figura. Sabendo que os segmentos 'BC' e 'DE' são paralelos, que o ponto '|' é incentro do triângulo 'ABC' e que o ângulo 'B|C' é igual a 105° então o segmento 'AC' mede:",
+        "", "", "", "","",
+        "img/ex4.jpg", "img/Aex4.jpg", "img/Bex4.jpg", "img/Cex4.jpg", "img/Dex4.jpg","img/Eex4.jpg",
+        "4"
+
+    ],
+
+    ["(Unesp 2013)  Um aluno precisa localizar o centro de uma moeda circular e, para tanto, dispõe apenas de um lápis, de uma folha de papel, de uma régua não graduada, de um compasso e da moeda. Nessas condições, o número mínimo de pontos distintos necessários de serem marcados na circunferência descrita pela moeda para localizar seu centro é: ",
+        "3", "2", "4", "1","5",
+        "img/ex5.jpg", "", "", "", "","",
+        "1"
+    
+    ],
+
+    ["(Ufc 2002)  Na figura a seguir, temos dois triângulos equiláteros ABC e A'B'C' que possuem o mesmo baricentro, tais que AB || A'B', AC || A'C' e BC || B'C'. Se a medida dos lados de ABC é igual a 3√3 cm e a distância entre os lados paralelos mede 2 cm, então a medida das alturas de A'B'C' é igual a: ",
+        "11,5 cm", "10,5 cm", "9,5 cm", "8,5 cm","7,5 cm",
+        "img/ex6.jpg", "", "", "", "","",
+        "1"
+
+    ],
+
+    ["(Ufpi 2000)  No triângulo ABC (figura abaixo), os lados AB, AC e BC medem respectivamente 5 cm, 7 cm e 9 cm. Se P é o ponto de encontro das bissetrizes dos ângulos B e C e PQ//MB, PR//NC e MN//BC, a razão entre os perímetros dos triângulos AMN e PQR é: ",
+        "", "", "", "","",
+        "img/ex7.jpg", "img/Aex7.jpg", "img/Bex7.jpg", "img/Cex7.jpg", "img/Dex7.jpg","img/Eex7.jpg",
+        "4"
+
+    ],
+
+    ["(Pucmg 1997)  Na figura, o triângulo ABC é equilátero e está circunscrito ao círculo de centro 0 e raio 2 cm. AD é altura do triângulo. Sendo E ponto de tangência, a medida de AE, em centímetros, é: ",
+        "2√3", "2√5", "3", "5","√26",
+        "img/ex8.jpg", "", "", "", "","",
+        "1"
+
+    ],
+    
+    ["Na figura anterior, o triângulo ABD é equilátero, e seu lado mede 3m.; H é o ortocentro, sendo que os pontos F e G são os pontos médios dos lados   e  , respectivamente. Quantos rolos de fita adesiva serão necessários, no mínimo, para cobrir todos os segmentos da figura, se cada rolo possui 1m de fita?: ",
+        "18", "20", "22", "24","26",
+        "img/ex9.jpg", "", "", "", "","",
+        "5"
+
+    ],
+
+    ["(Unitau 1995)  O segmento da perpendicular traçada de um vértice de um triângulo à reta suporte do lado oposto é denominado: ",
+        "mediana", "mediatriz", "bissetriz", "altura","base",
+        "", "", "", "", "","",
+        "4"
 
     ],
 
